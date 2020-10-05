@@ -1,11 +1,9 @@
+<!--
+ * @Author: Jinqi Li
+ * @Date: 2020-08-12 06:44:13
+ * @LastEditors: Jinqi Li
+ * @LastEditTime: 2020-10-04 23:24:42
+ * @FilePath: /lego/README.md
+-->
 # LEGO Clone
-* ## [Temporary Host](https://sheltered-thicket-88431.herokuapp.com/)
-* ## Usage
-  * **`npm install`** <br>
-    install npm package (if you haven't installed it before)
-  * **`cd <project folder>`** <br>
-    direct to the project folder
-  * **`npm start`** <br>
-    start npm package
-  * **`npm run build`** <br>
-* ## [Heroku Branch for Building](https://dashboard.heroku.com/apps/sheltered-thicket-88431)
+* ## [GitHub Page](https://kikijinqili.github.io/lego)
