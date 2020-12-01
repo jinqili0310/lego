@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4542a8fa134d06c011fbb131ff3503aa",
+    "revision": "32d57454883f314f397276dba176db10",
     "url": "/lego/index.html"
   },
   {
